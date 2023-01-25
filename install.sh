@@ -1,1 +1,1 @@
-apt-get install sox
+apt-get install sox -y
