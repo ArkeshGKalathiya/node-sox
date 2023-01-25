@@ -4,7 +4,8 @@
   "description": "node.js interface to the sox audio utility",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "preinstall" : "sh ./install.sh"
   },
   "repository": {
     "type": "git",
